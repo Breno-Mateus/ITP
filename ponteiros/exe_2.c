@@ -1,0 +1,1 @@
+/*Crie uma função chamada minMax que recebe um vetor de inteiros, seu tamanho, e os endereços de duas variáveis (que estarão na main) chamadas min e max. A função deve percorrer o vetor e armazenar o menor e o maior valor encontrado nas variáveis min e max da função main.*/
